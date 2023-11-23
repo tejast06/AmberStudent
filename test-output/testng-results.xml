@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-23T07:44:52Z" name="Default suite" finished-at="2023-11-23T07:45:37Z" duration-ms="44575">
+    <groups>
+    </groups>
+    <test started-at="2023-11-23T07:44:52Z" name="Default test" finished-at="2023-11-23T07:45:37Z" duration-ms="44575">
+      <class name="testcases.ValidateThatPopularCitiesIsDifferentForAllCountries">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testcases.ValidateThatPopularCitiesIsDifferentForAllCountries@600b9d27]" started-at="2023-11-23T07:44:52Z" name="launchBrowser" finished-at="2023-11-23T07:45:20Z" duration-ms="27541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="test()[pri:0, instance:testcases.ValidateThatPopularCitiesIsDifferentForAllCountries@600b9d27]" started-at="2023-11-23T07:45:20Z" name="test" finished-at="2023-11-23T07:45:37Z" duration-ms="16938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testcases.ValidateThatPopularCitiesIsDifferentForAllCountries -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
